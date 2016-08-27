@@ -2,7 +2,7 @@
 ## Node Foundations / Exercise 06 / Third party modules (CHALK)
 
 
-![~~~~~~~~~](------.jpg?raw=true "~~~~~~~~~ Screenshot")
+![Chalk module Flag](flagScrn.jpg?raw=true "Chalk module Flag Screenshot")
 ***
 
 ## Introduction
